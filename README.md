@@ -2,8 +2,6 @@
 
 Follow this steps to move your Subversion repo to Git.
 
-* Step 1 - Initialize SVN enabled repo
-
 ## Step 1
 Initialize SVN enabled repo with GIT SVN tool.
 
